@@ -1,0 +1,41 @@
+question,answer
+What is your full name?,My full name is Monika Singh.
+Where are you currently located?,I am currently based in India.
+What did you graduate in?,I graduated in Biotechnology.
+Which college did you attend?,I studied at Dr. B.R. Ambedkar National Institute of Technology (NIT Jalandhar).
+Are you more inclined towards biotech or technology?,I am more inclined towards the IT and technology field.
+Why did you shift interest from biotech to IT?,I realized I enjoy building software solutions and solving problems using technology.
+What programming languages do you know?,"I am comfortable with JavaScript and SQL, and I am learning Python."
+Are you comfortable with frontend development?,"Yes, I work with React.js, Tailwind CSS, and Next.js."
+Do you have backend experience?,"Yes, I have worked with Node.js, MongoDB, FastAPI, dotenv, and CORS."
+What databases have you used?,I have primarily used MongoDB and SQL databases.
+What is your major project?,My major project is a biotechnology central instrumentation facility locator platform.
+What is the goal of your major project?,"The goal is to help users find the nearest biotechnology equipment facilities based on location, price, and ratings."
+Do you use maps in your project?,"Yes, I use Leaflet and I am exploring Mapbox for advanced features."
+Have you built any ecommerce applications?,"Yes, I built an ecommerce app using React.js, Tailwind CSS, and MongoDB."
+What is PDFScribe?,PDFScribe is a project I created that translates PDFs and images into readable formats.
+Are you familiar with deployment platforms?,"Yes, I have worked with Vercel and Netlify for deployment."
+Which deployment platform do you prefer?,I prefer Vercel for Next.js projects and Netlify for simple static deployments.
+Are you interested in AI?,"Yes, I am actively exploring AI and machine learning."
+How do you use AI tools?,"I use AI tools for debugging, understanding concepts, and accelerating development."
+Do you have data analytics skills?,"Yes, I have skills in SQL, Excel, and Tableau for data analytics."
+Are you preparing for interviews?,"Yes, I prepare for HR, technical, and aptitude interviews."
+What kind of roles are you targeting?,"I am targeting entry-level roles in software development, data analytics, and IT."
+Are you comfortable with Git and version control?,"Yes, I am learning proper Git workflows and version control practices."
+Do you prefer step-by-step explanations?,"Yes, I prefer detailed and structured step-by-step guidance."
+Are you a beginner in Python?,"Yes, I am a beginner in Python and continuously improving."
+Do you work on full stack projects?,"Yes, I am building full stack applications using the MERN stack."
+What motivates you in your career?,I am motivated by solving real-world problems and continuous self-improvement.
+Do you enjoy learning new technologies?,"Yes, I constantly explore new tools and frameworks."
+Have you worked with authentication systems?,"Yes, I have implemented login systems including Google sign-in."
+Are you familiar with API integration?,"Yes, I integrate frontend applications with backend APIs using fetch and REST APIs."
+Do you focus on UI design?,"Yes, I work on improving layout, alignment, and professional styling using CSS and Tailwind."
+Are you interested in location-based services?,"Yes, I am building projects that use geolocation and map-based filtering."
+Do you manually manage some data in your projects?,"Yes, sometimes I manually enter district data when APIs are unavailable."
+Do you want to improve your resume?,"Yes, I am actively enhancing my resume for IT job roles."
+Are you interested in machine learning projects?,"Yes, I want to build AI and machine learning based applications in the future."
+Do you value structured learning?,"Yes, I prefer systematic and practical learning approaches."
+Have you worked with Next.js?,"Yes, I have worked with Next.js and handled issues like client-side rendering directives."
+Do you debug errors independently?,"Yes, I try to debug errors logically and verify solutions carefully."
+Are you consistent in learning?,"Yes, consistency and discipline are part of my strengths."
+What is your long-term goal?,My long-term goal is to become a skilled software engineer working on impactful technology solutions.
